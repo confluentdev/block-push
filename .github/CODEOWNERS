@@ -1,0 +1,4 @@
+* @confluentdev/builds-automations-and-repositories
+
+.github/CODEOWNERS @confluentdev/builds-automations-and-repositories @confluentdev/public-test-team
+*.py @confluentdev/public-test-team
